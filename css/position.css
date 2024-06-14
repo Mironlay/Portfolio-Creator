@@ -1,0 +1,53 @@
+.container {
+    width: 1215px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+/* header */
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 13px;
+}
+
+.header-box {
+    display: flex;
+
+}
+
+.logo-link {
+    margin-right: 507px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-link1 {
+    display: flex;
+    gap: 8px;
+}
+
+.nav-img {
+    width: 13px;
+    height: 13px; 
+}
+
+/* hero */
+
+.porfolio-hero {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+
+
+
+/* trusted */
+
+.trusted {
+    padding-top: 77px;
+    padding-bottom: 80px;
+}
